@@ -1,0 +1,5 @@
+services:
+  whippyweb:
+    image: pkucmus/whippyweb:latest
+    ports:
+      - "8080:8080"
